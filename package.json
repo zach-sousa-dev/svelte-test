@@ -1,0 +1,19 @@
+{
+  "name": "svelte-test",
+  "version": "1.0.0",
+  "description": "a test for svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zach-sousa-dev/svelte-test.git"
+  },
+  "author": "Zach Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zach-sousa-dev/svelte-test/issues"
+  },
+  "homepage": "https://github.com/zach-sousa-dev/svelte-test#readme"
+}
